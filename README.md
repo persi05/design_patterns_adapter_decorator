@@ -1,0 +1,2 @@
+Implementacja operacji na wektorach dwu i trój wymiarowych z wykorzystaniem wzorców projektowych. Adapter umożliwia zamianę reprezentacji wektorów w układzie kartezjańskim na biegunowy bez modyfikacji oryginalnej klasy Vector2D. Dekorator dynamicznie dodaje trzeci wymiar do wektorów 2D i operację iloczynu wektorowego. Program oblicza moduły wektorów, iloczyny skalarne i wektorowe. 
+Wnioski przewaga wzorców nad dziedziczeniem - brak tworzenia/duplikacji obiektów i łatwiejsza rozbudowa/elastyczność kodu.
